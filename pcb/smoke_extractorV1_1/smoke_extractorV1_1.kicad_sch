@@ -1354,6 +1354,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4cb135df-b5c2-404f-b148-a45a17d83829)
   )
+  (text "V- > V+ then Vout = 0V\nV- < V+ then Vout = 5V\n\nV- = Vref\nV+ = Vin"
+    (at 77.47 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 51572546-8621-4d36-bce9-db83c66cbd27)
+  )
   (text "Outputs 0.6V" (at 43.18 41.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 672335ea-e0e8-45f3-9dd5-b98ea9a52187)
