@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "CustomSymbols"
+    ]
   },
   "meta": {
     "filename": "smoke_extractorV1_1.kicad_pro",
