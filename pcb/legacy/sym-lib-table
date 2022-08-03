@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name ExternalSymbols)(type Legacy)(uri ${KIPRJMOD}/ExternalSymbols.lib)(options "")(descr ""))
-)
