@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/nunonogueira/Projectos/smoke-extractor/pcb/smoke_extractorV1_1/smoke_extractorV1_1.kicad_sch</source>
+    <date>Saturday, 13 August 2022 at 18:15:49</date>
+    <tool>Eeschema (6.0.6-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Smoke Extractor Schematic</title>
+        <company>Nuno Nogueira</company>
+        <rev>1</rev>
+        <date>2022-07-11</date>
+        <source>smoke_extractorV1_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9914d39-6f30-4ba1-b8de-c099d43592c0</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0c8ac54-a42e-4bd5-a9b0-667bc9598cb5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82d5b56e-8f9b-441c-925c-0583f1c9431c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2.2n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2666a284-ef9c-4f59-aee2-8a97c4813582</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f33ccd4-80e6-4668-8bc2-e6080b6c98ad</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbce5be0-079f-4eb8-9de1-9e27cc49e325</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73e98708-b11b-43d9-93c0-fcdae07fd6c3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa69076c-d903-46d0-a834-845c0f5805cc</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e979895-c720-4bb5-957f-795d814db9a3</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>505e03ee-f00a-439d-b103-127e8129f39e</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0b366a2-122c-472d-b959-892e11ecf10a</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SS34</value>
+      <footprint>Diode_SMD:Nexperia_CFP3_SOD-123W</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217a89cb-0c6f-41b0-bb75-887f697de54e</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c05ca9f6-0404-4595-a216-dc8bde49db98</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57300911-4f30-47bf-b3d3-3e395215a6f0</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898cb678-66ac-463e-8304-9420ee7a1a5e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle</value>
+      <footprint>CustomFootprints:USB4120-03-C</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle" description="USB Full-Featured Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95ffc3c6-84e2-4534-8eef-9ee1a9f41a02</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c0eb389-53f8-4657-a34f-cf12c699fa87</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_1008_2520Metric_Pad1.43x2.20mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8979e1a2-dcd1-42a7-ae27-47e15abdf03e</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ea32909-79bd-4768-8813-e5915e76ba45</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56ce3fcd-62bc-4dba-a6b1-ae8205ebf6db</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>6k8</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e38d534d-2172-4396-955c-5f0a970e41ae</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>380a39d0-b84f-4b62-87a9-847ecd2b9168</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>003a3556-27e1-4c94-8336-eff7b2d2f9bb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>928b81d5-4f5c-43d6-adf5-dda019181b73</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b683cc23-b225-4f7c-ab01-f58eb518a6d4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90b1b332-d70b-4d0c-ae09-a8505480110a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>7k6</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7996573-5f85-4d35-a9c1-445af4828efb</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c879956-cc93-4dd1-9e13-6932efcb9bb5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2864ec1c-c038-42c4-8431-19a126cdb6d8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a9fd2a1-fce1-418b-ab7b-bd8553fc3b10</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>86.6k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49a4bddb-6116-4c8f-9ab7-35882a4e8e42</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>893fa9e2-6efc-470d-b351-d2e75fc7184c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8092efaf-6b76-4c62-945f-26b9dd789750</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51619bc4-db91-46b3-bea2-4a2182b4e036</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>86.6k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>147c5f72-a5a1-4eef-a83f-4d6314a37bc3</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1b2322d-e7f3-45e0-8382-faf77f534a24</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb71d5d0-154b-488c-a515-585f8bf9ce7d</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bad8d58-1a38-4070-9263-a1937beead8c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LMV331</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmv331.pdf</datasheet>
+      <libsource lib="Comparator" part="LMV331" description="Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e88e7d59-0051-411d-8d9c-5506936fb14d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>RA11131100</value>
+      <footprint>CustomFootprints:RA11131100</footprint>
+      <libsource lib="CustomSymbols" part="RA11131100" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7073311a-a32d-489e-b1b4-09793985e2e2</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MP1542</value>
+      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
+      <libsource lib="CustomSymbols" part="MP1542" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>111512c3-f28a-4b21-824c-ab180b491a84</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LMV331</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmv331.pdf</datasheet>
+      <libsource lib="Comparator" part="LMV331" description="Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2cf5487-59ad-4bdf-95da-a31c751a9019</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LMV331</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmv331.pdf</datasheet>
+      <libsource lib="Comparator" part="LMV331" description="Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="smoke_extractorV1_1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49919411-354c-4c06-83bf-ca2fade70302</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Comparator" part="LMV331">
+      <description>Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lmv331.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>*SC?70*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMV331</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lmv331.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="input"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="" type="open_collector"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle">
+      <description>USB Full-Featured Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A2" name="TX1+" type="bidirectional"/>
+        <pin num="A3" name="TX1-" type="bidirectional"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A10" name="RX2-" type="bidirectional"/>
+        <pin num="A11" name="RX2+" type="bidirectional"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B2" name="TX2+" type="bidirectional"/>
+        <pin num="B3" name="TX2-" type="bidirectional"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B10" name="RX1-" type="bidirectional"/>
+        <pin num="B11" name="RX1+" type="bidirectional"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CustomSymbols" part="MP1542">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MP1542</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COMP" type="input"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GND" type="unspecified"/>
+        <pin num="5" name="SW" type="power_out"/>
+        <pin num="6" name="IN" type="power_in"/>
+        <pin num="7" name="FSEL" type="input"/>
+        <pin num="8" name="SS" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CustomSymbols" part="RA11131100">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RA11131100</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3400A">
+      <description>30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3400A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Comparator">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Comparator.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="CustomSymbols">
+      <uri>/Users/nunonogueira/Projectos/smoke-extractor/pcb/smoke_extractorV1_1/CustomSymbols.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="CC1">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="2" name="CC1_DET">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pintype="open_collector"/>
+    </net>
+    <net code="3" name="CC2">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="4" name="CC2_DET">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U5" pin="4" pintype="open_collector"/>
+    </net>
+    <net code="5" name="CHG_DET">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pintype="open_collector"/>
+    </net>
+    <net code="6" name="D+">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="D-">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="2" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="9" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="SS" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="COMP" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="SW" pintype="power_out"/>
+    </net>
+    <net code="15" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="17" name="VBOOST_OUT">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="VBUS_OPEN">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="19" name="VBUS_RAW">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="20" name="VBUS_SWITCH">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="FSEL" pintype="input"/>
+    </net>
+    <net code="21" name="VDAT_REF">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="22" name="V_CC_REF">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="23" name="unconnected-(J1-PadA2)">
+      <node ref="J1" pin="A2" pinfunction="TX1+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J1-PadA3)">
+      <node ref="J1" pin="A3" pinfunction="TX1-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J1-PadA10)">
+      <node ref="J1" pin="A10" pinfunction="RX2-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(J1-PadA11)">
+      <node ref="J1" pin="A11" pinfunction="RX2+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J1-PadB2)">
+      <node ref="J1" pin="B2" pinfunction="TX2+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J1-PadB3)">
+      <node ref="J1" pin="B3" pinfunction="TX2-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J1-PadB10)">
+      <node ref="J1" pin="B10" pinfunction="RX1-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J1-PadB11)">
+      <node ref="J1" pin="B11" pinfunction="RX1+" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
