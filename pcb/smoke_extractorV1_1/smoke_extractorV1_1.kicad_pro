@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.15
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "../../../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Board Step/smoke_extractorV1_1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
