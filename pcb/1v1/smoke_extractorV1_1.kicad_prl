@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 50,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -78,22 +78,22 @@
         "window": {
           "display": 1,
           "maximized": true,
-          "pos_x": -2283,
-          "pos_y": 207,
-          "size_x": 1920,
-          "size_y": 1055
+          "pos_x": -2571,
+          "pos_y": 25,
+          "size_x": 1909,
+          "size_y": 1415
         }
       },
       {
         "name": "smoke_extractorV1_1.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": -1279,
-          "pos_y": 25,
-          "size_x": 1278,
-          "size_y": 1415
+          "display": 0,
+          "maximized": true,
+          "pos_x": -2288,
+          "pos_y": 157,
+          "size_x": 1440,
+          "size_y": 875
         }
       }
     ]
