@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 49,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -63,7 +63,7 @@
       35,
       36
     ],
-    "visible_layers": "ffdbfff_ffffffff",
+    "visible_layers": "fffbfff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -73,27 +73,15 @@
   "project": {
     "files": [
       {
-        "name": "smoke_extractorV1_1.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -2495,
-          "pos_y": 152,
-          "size_x": 2146,
-          "size_y": 1040
-        }
-      },
-      {
         "name": "smoke_extractorV1_1.kicad_sch",
         "open": true,
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": -318,
+          "pos_x": -831,
           "pos_y": 25,
-          "size_x": 2089,
-          "size_y": 1287
+          "size_x": 2560,
+          "size_y": 1415
         }
       }
     ]
