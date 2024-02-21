@@ -6,8 +6,8 @@
 
   (title_block
     (title "Smoke Extractor Schematic")
-    (date "2023-11-30")
-    (rev "2.04")
+    (date "2024-02-21")
+    (rev "2.06")
     (company "Nuno Nogueira")
     (comment 1 "1.2 - Changed LMV331 footprint, resistors values (from 4k7 to 5k1), changed VBUS circuit")
     (comment 2 "2.0 - Completely changed internals. Added battery LED feedback, battery charging IC, battery protection, step-up 5V, step-up 12V")
@@ -16,6 +16,7 @@
     (comment 5 "2.03 - Simplified comparator circuit")
     (comment 6 "2.04 - R6 from 3k3 to 1k.")
     (comment 7 "2.05 - Removed 3v3 to 5V boost. Use only one.")
+    (comment 8 "2.06 - Changed comparator resistors")
   )
 
   (lib_symbols
